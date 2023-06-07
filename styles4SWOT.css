@@ -1,0 +1,90 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #1e1b1b;
+    padding: 20px;
+    text-align: center;
+  }
+  header h1,p {
+    color: white;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color:   #020202;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  footer a {
+    color: white !important;
+  }
+  .instagramLinks{
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .instagramLinks a{
+    color: rgb(214, 225, 222);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  #instagramLinks{
+    text-align:center;
+  }
+  .featured-brands{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .featured-brands h3{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 150px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  hr {
+    border: black;
+    height: 15px;
+    background-color: #000000;
+    margin: 60px 0;
+  }
+  .important{
+    text-align: center !important;
+  }
